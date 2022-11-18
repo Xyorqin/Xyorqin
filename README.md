@@ -1,8 +1,7 @@
 ### Hi there 👋
 
+![68747470733a2f2f63646e2e616b616d61692e737465616d7374617469632e636f6d2f737465616d636f6d6d756e6974792f7075626c69632f696d616765732f636c616e732f33353135383137392f3036383436346231376631626264643166363565306163363039613434376](https://user-images.githubusercontent.com/79446216/202623341-600512b0-4e36-4ee6-b9d2-cf966060f9e4.gif)
 
-
-![image](https://user-images.githubusercontent.com/79446216/202623139-67141cfa-48f4-40b1-8721-99ebe0c8c620.png)
 
 <!--
 **Xyorqin/Xyorqin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
